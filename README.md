@@ -39,18 +39,14 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexteixeira59&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexteixeira59&show_icons=true&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexteixeira59&theme=dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexteixeira59&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
 ---
 
 <p align="center">
   📍 São Paulo, SP &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/alex-teixeira-ti">LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:seu-email@exemplo.com">E-mail</a>
 </p>
