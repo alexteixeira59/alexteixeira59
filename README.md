@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -39,7 +40,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexteixeira59&show_icons=true&theme=dark&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexteixeira59&theme=dark&hide_border=true" height="165" />
 </p>
 
@@ -47,6 +47,5 @@
 
 <p align="center">
   📍 São Paulo, SP &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/alex-teixeira-ti">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:seu-email@exemplo.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/alex-teixeira-ti">LinkedIn</a>
 </p>
