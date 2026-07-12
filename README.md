@@ -29,10 +29,6 @@
 - **Ferramentas Desktop** — aplicações GUI modernas e responsivas com `CustomTkinter`, pensadas para uso real por equipes de suporte não-técnicas.
 - **Em transição para Backend** — aplicando esse mesmo raciocínio de automação em APIs REST, bancos de dados relacionais e arquiteturas mais robustas.
 
-### 🚀 Projeto em destaque
-
-**[ferramentas-suporte-ti](https://github.com/alexteixeira59/ferramentas-suporte-ti)** — app desktop em Python que automatiza tarefas de suporte de TI: arquivamento de e-mails via COM/Outlook, manutenção de sistema, configuração de rede/domínio e instalação de impressoras, com log de auditoria e empacotamento via PyInstaller.
-
 ### 🎯 Objetivos & Próximos Passos
 
 - 🔄 Migrar scripts locais de automação para arquiteturas backend modernas com **FastAPI** ou **Django**
