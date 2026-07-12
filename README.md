@@ -1,25 +1,60 @@
-# Olá, eu sou o Alex Teixeira! 👋
+<h1 align="center">Olá, eu sou o Alex Teixeira! 👋</h1>
 
-Analista de Suporte de TI especializado em **Automação de Processos** e focado na transição de carreira para **Desenvolvimento Backend com Python**. Utilizo o poder do código para otimizar rotinas de infraestrutura, eliminar gargalos operacionais e construir ferramentas desktop inteligentes que geram eficiência real para o negócio.
+<p align="center">
+  <b>Backend Python Developer (em transição) | Automação de Processos & Infraestrutura</b>
+</p>
+
+<p align="center">
+  Analista de Suporte de TI construindo o caminho para Desenvolvimento Backend com Python.<br>
+  Uso código para eliminar trabalho manual repetitivo, automatizar infraestrutura Windows e<br>
+  transformar rotinas operacionais em ferramentas confiáveis — e agora migrando esse know-how<br>
+  para APIs, bancos de dados e arquiteturas backend de verdade.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ Tecnologias & Habilidades
+### 🔧 O que eu faço
 
-<!-- Ícones das tecnologias para dar um visual moderno -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Automação de Infraestrutura Windows** — scripts Python que orquestram PowerShell elevado (Active Directory, DNS, políticas de grupo, gerenciamento de impressoras e spooler), com captura de saída real e tratamento de erro robusto.
+- **Automação de Office/Outlook via COM** — integração nativa com `win32com` / `pythoncom` para arquivamento automatizado de e-mails (geração de `.pst`), triagem e limpeza de caixas de entrada em escala.
+- **Ferramentas Desktop** — aplicações GUI modernas e responsivas com `CustomTkinter`, pensadas para uso real por equipes de suporte não-técnicas.
+- **Em transição para Backend** — aplicando esse mesmo raciocínio de automação em APIs REST, bancos de dados relacionais e arquiteturas mais robustas.
 
-* **Automação de Infraestrutura & Redes:** Desenvolvimento de scripts complexos em Python integrados ao ecossistema Windows (Active Directory, Domain Controller, mapeamento de impressoras via PowerShell e gerenciamento do spooler).
-* **Automação de Ferramentas de Escritório:** Manipulação avançada do Microsoft Outlook/Exchange via APIs nativas (`win32com`, `pythoncom`) para triagem, arquivamento automatizado (geração de PSTs) e limpeza de caixas de entrada.
-* **Interfaces Gráficas (GUI):** Construção de aplicações desktop modernas, responsivas e amigáveis utilizando `CustomTkinter`.
+### 🚀 Projeto em destaque
+
+**[ferramentas-suporte-ti](https://github.com/alexteixeira59/ferramentas-suporte-ti)** — app desktop em Python que automatiza tarefas de suporte de TI: arquivamento de e-mails via COM/Outlook, manutenção de sistema, configuração de rede/domínio e instalação de impressoras, com log de auditoria e empacotamento via PyInstaller.
+
+### 🎯 Objetivos & Próximos Passos
+
+- 🔄 Migrar scripts locais de automação para arquiteturas backend modernas com **FastAPI** ou **Django**
+- 🗄️ Integrar fluxos de automação com bancos de dados relacionais (**PostgreSQL/SQL**)
+- 🧱 Aplicar **Clean Code** e princípios **SOLID** em novos projetos
+- 🐳 Aprender **Docker** para empacotar e distribuir esses serviços
 
 ---
 
-### 🚀 Objetivos & Próximos Passos
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexteixeira59&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexteixeira59&theme=dark&hide_border=true" height="165" />
+</p>
 
-* 🎯 Migrar scripts locais para arquiteturas Backend modernas utilizando frameworks como **FastAPI** ou **Django**.
-* 💽 Integrar fluxos de automação com **Bancos de Dados Relacionais (SQL)**.
-* 🧼 Aplicar padrões de **Clean Code**, SOLID e boas práticas de arquitetura de software em novos projetos.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexteixeira59&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
+
+---
+
+<p align="center">
+  📍 São Paulo, SP &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:seu-email@exemplo.com">E-mail</a>
+</p>
