@@ -7,16 +7,16 @@
 <p align="center">
   Formado em Ciência da Computação, atuo na ponte entre desenvolvimento e infraestrutura.<br>
   Uso Python para automatizar processos, orquestrar sistemas e eliminar trabalho manual repetitivo —<br>
-  de scripts PowerShell elevados e integração com Active Directory a containers com Docker.<br>
+  de scripts PowerShell elevados e integração com Active Directory a deploy de aplicações na AWS.<br>
   Gosto de resolver problema real de produção, não só escrever código de vitrine.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
@@ -28,6 +28,14 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Cloud (AWS)**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![boto3](https://img.shields.io/badge/-boto3-232F3E?style=flat-square&logo=python&logoColor=white)
 
 **Infraestrutura & Sistemas Operacionais**
 
@@ -52,6 +60,7 @@
 ### 🔧 O que eu faço
 
 - **Automação de Infraestrutura** — scripts Python que orquestram PowerShell elevado para gerenciar Active Directory, DNS, políticas de grupo, serviços do Windows e instalação remota de recursos, com captura de saída real e tratamento de erro robusto.
+- **Cloud AWS** — deploy e gerenciamento de aplicações em **EC2**, armazenamento de arquivos com **S3** e bancos de dados gerenciados com **RDS**, automatizando esses fluxos via **boto3** (SDK Python da AWS).
 - **Integração de Sistemas** — automação via COM (`win32com`/`pythoncom`) para sistemas corporativos como Outlook/Office, eliminando processos manuais repetitivos em escala.
 - **Containers & Deploy** — uso Docker para empacotar e distribuir aplicações de forma consistente entre ambientes.
 - **Servidores Web** — configuração e manutenção de Nginx, Apache e IIS para hospedar aplicações e serviços.
@@ -59,11 +68,11 @@
 
 ### 🎯 Objetivos & Próximos Passos
 
-- ⚙️ Aprofundar **CI/CD** com GitHub Actions, automatizando build, teste e deploy
-- 🐳 Evoluir de Docker isolado para **orquestração** (Docker Compose / Kubernetes)
-- 📊 Aprender monitoramento e observabilidade (**Prometheus/Grafana**)
-- 🧩 Explorar Infraestrutura como Código (**Terraform/Ansible**)
-- 🗄️ Aprofundar modelagem e integração com bancos de dados relacionais (**SQL**)
+- ⚙️ Aprofundar **CI/CD** com GitHub Actions, automatizando build, teste e deploy para AWS
+- 🐳 Evoluir de Docker isolado para **orquestração** (Docker Compose / Kubernetes / ECS)
+- 📊 Aprender monitoramento e observabilidade (**CloudWatch, Prometheus/Grafana**)
+- 🧩 Explorar Infraestrutura como Código (**Terraform**) para provisionar recursos AWS
+- 🗄️ Aprofundar modelagem e otimização de bancos gerenciados (**RDS/SQL**)
 
 ---
 
