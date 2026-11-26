@@ -1,24 +1,36 @@
 # Olá, eu sou o Alex Teixeira! 👋
 
-**Analista de Suporte de TI em transição para Desenvolvimento Web**
+**Analista de Suporte de TI → DevOps & Cloud**
+Automatizo o trabalho repetitivo da infraestrutura com Python, PowerShell e IA.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🙋 Sobre mim
+- 🎓 Bacharel em Ciência da Computação
+- 🛠️ 2 anos em suporte e infraestrutura: N1/N2, Windows Server, Linux, Active Directory, Office 365, redes (TCP/IP, DNS, DHCP, VPN), GLPI
+- ⚙️ Crio ferramentas de automação que viram um clique o que era procedimento manual
+- 🤖 Uso IA (Claude Code) para acelerar o desenvolvimento, entendendo e revisando cada linha
+- 🎯 Foco: DevOps, Cloud e automação de infraestrutura
+- 💼 Aberto a oportunidades de Infraestrutura, Cloud, DevOps e Automação
 
----
+## 🧰 Tecnologias
+**Uso no dia a dia:** Python · PowerShell · Shell Script · Windows Server · Linux · Active Directory · Office 365 · Redes · Git
 
-### 🙋 Sobre mim
+**Estudando agora:** AWS · Docker · CI/CD (GitHub Actions) · Terraform · Linux avançado
 
-🎓 Bacharel em Ciência da Computação<br>
-🛠️ 2 anos de experiência em suporte técnico (N1/N2, Windows, Linux, GLPI)<br>
-📚 Estudando agora: JavaScript, Node.js e SQL<br>
-🎯 Próximos passos: TypeScript e React<br>
-🤖 Uso IA como apoio para aprender, mas meu foco é entender cada linha<br>
-💼 Aberto a oportunidades de Desenvolvedor Júnior, estágio e trainee
+## 🚀 Projetos
+### [suporte-ti](https://github.com/alexteixeira59/suporte-ti)
+App desktop (Python + PowerShell) que centraliza as tarefas do suporte técnico: manutenção do Windows, rede e domínio, impressoras, implantação do Office e correção de drivers.
 
-### 🚀 Projetos
+**Destaque:** cerca de 300 mil e-mails do Outlook arquivados em PST em ~1 hora, com validação de espaço, limite de tamanho e conferência de integridade.
 
-**[suporte-ti](https://github.com/alexteixeira59/suporte-ti)**: automação de suporte técnico para Windows, feita com apoio de IA a partir de problemas reais do meu trabalho.
+### Sistema de empréstimo de equipamentos *(em breve)*
+Sistema web com assinatura digital pelo tablet para controle e rastreabilidade de ativos de TI.
 
-### 📫 Contato
+## 📜 Certificações e cursos
+- AWS Cloud Quest: Cloud Practitioner (Training Badge)
+- Google IT Support
+- Administrador de Servidores Windows
+- Programação em Python
+- Claude Academy: Claude Code 101
 
+## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/alex-teixeira-ti)
