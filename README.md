@@ -28,8 +28,8 @@ Sistema web com assinatura digital pelo tablet para controle e rastreabilidade d
 ## 📜 Certificações e cursos
 - AWS Cloud Quest: Cloud Practitioner (Training Badge)
 - Google IT Support
-- Administrador de Servidores Windows
-- Programação em Python
+- Administrador de Servidores Windows - SENAI
+- Programação em Python - SENAI
 - Claude Academy: Claude Code 101
 
 ## 📫 Contato
